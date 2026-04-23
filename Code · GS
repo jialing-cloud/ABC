@@ -2,7 +2,7 @@
 // 統一企業參訪活動平台 - 後端主程式
 // ==========================================
 
-const SHEET_ID = '你的_GOOGLE_試算表_ID'; // 請務必填寫
+const SHEET_ID = 'https://script.google.com/macros/s/AKfycbwxsXRNge4iwHsxGKm27HvH9hPeBCwF0GtAuA-GzS4oFtTS-O1rpQvxBt0S1A88XSI2/exec'; // 請務必填寫
 const SHEET_REG = '活動報名';
 
 function doGet(e) {
